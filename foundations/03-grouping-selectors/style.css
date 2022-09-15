@@ -1,0 +1,14 @@
+.pretty,
+.ugly {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.pretty {
+    background-color: black;
+    color: white;
+}
+
+.ugly {
+    background-color: yellow;
+}
